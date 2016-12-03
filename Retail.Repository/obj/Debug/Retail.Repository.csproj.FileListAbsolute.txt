@@ -1,0 +1,12 @@
+C:\Olman\Retail\RetailStore\Retail.Repository\bin\Debug\Retail.Repository.dll.config
+C:\Olman\Retail\RetailStore\Retail.Repository\bin\Debug\Retail.Repository.dll
+C:\Olman\Retail\RetailStore\Retail.Repository\bin\Debug\Retail.Repository.pdb
+C:\Olman\Retail\RetailStore\Retail.Repository\bin\Debug\EntityFramework.dll
+C:\Olman\Retail\RetailStore\Retail.Repository\bin\Debug\EntityFramework.SqlServer.dll
+C:\Olman\Retail\RetailStore\Retail.Repository\bin\Debug\RetailStore.Domain.dll
+C:\Olman\Retail\RetailStore\Retail.Repository\bin\Debug\RetailStore.Domain.pdb
+C:\Olman\Retail\RetailStore\Retail.Repository\bin\Debug\EntityFramework.xml
+C:\Olman\Retail\RetailStore\Retail.Repository\bin\Debug\EntityFramework.SqlServer.xml
+C:\Olman\Retail\RetailStore\Retail.Repository\obj\Debug\Retail.Repository.csprojResolveAssemblyReference.cache
+C:\Olman\Retail\RetailStore\Retail.Repository\obj\Debug\Retail.Repository.dll
+C:\Olman\Retail\RetailStore\Retail.Repository\obj\Debug\Retail.Repository.pdb

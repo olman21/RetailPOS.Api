@@ -1,0 +1,5 @@
+C:\Olman\Retail\RetailStore\RetailStore.Domain\bin\Debug\RetailStore.Domain.dll
+C:\Olman\Retail\RetailStore\RetailStore.Domain\bin\Debug\RetailStore.Domain.pdb
+C:\Olman\Retail\RetailStore\RetailStore.Domain\obj\Debug\RetailStore.Domain.dll
+C:\Olman\Retail\RetailStore\RetailStore.Domain\obj\Debug\RetailStore.Domain.pdb
+C:\Olman\Retail\RetailStore\RetailStore.Domain\obj\Debug\RetailStore.Domain.csprojResolveAssemblyReference.cache
